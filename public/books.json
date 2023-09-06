@@ -1,0 +1,74 @@
+[
+    {
+        "Name":"İstanbul'dan Sayfalar",
+        "Image":"istanbuldan_sayfalar.jpg",
+        "Author":"İlber Ortaylı",
+        "Price":"₺60"
+    },
+    {
+        "Name":"Suç ve Ceza",
+        "Image":"suc_ve_ceza.jpg",
+        "Author":"Fyodor Dostoyevski",
+        "Price":"₺50"
+    },
+    {
+        "Name":"1984",
+        "Image":"1984.jpg",
+        "Author":"George Orwell",
+        "Price":"₺30"
+    },
+    {
+        "Name":"Mustafa Kemal Atatürk",
+        "Image":"ataturk.jpg",
+        "Author":"İlber Ortaylı",
+        "Price":"₺70"
+    },
+    {
+        "Name":"Bilimin Büyüsü",
+        "Image":"bilimin_buyusu.jpg",
+        "Author":"Celal Şengör",
+        "Price":"₺70"
+    },
+    {
+        "Name":"Bir Ömür Nasıl Yaşanır",
+        "Image":"bir_omur_nasil_yasanir.jpg",
+        "Author":"İlber Ortaylı",
+        "Price":"₺40"
+    },
+    {
+        "Name":"Fransız Devrimi",
+        "Image":"fransiz_devrimi.jpg",
+        "Author":"Emrah Safa Gürkan",
+        "Price":"₺45"
+    },
+    {
+        "Name":"İttihat ve Terakki",
+        "Image":"ittihat_ve_terakki.jpg",
+        "Author":"İlber Ortaylı & Emrah Safa Gürkan",
+        "Price":"₺35"
+    },
+    {
+        "Name":"Koloni",
+        "Image":"koloni.jpg",
+        "Author":"Jean-Christophe Grange",
+        "Price":"₺55"
+    },
+    {
+        "Name":"Türklerin Tarihi - 1",
+        "Image":"turklerin_tarihi1.jpg",
+        "Author":"İlber Ortaylı",
+        "Price":"₺40"
+    },
+    {
+        "Name":"Türklerin Tarihi - 2",
+        "Image":"turklerin_tarihi2.jpg",
+        "Author":"İlber Ortaylı",
+        "Price":"₺40"
+    },
+    {
+        "Name":"Yeraltından Notlar",
+        "Image":"yeraltindan_notlar.jpg",
+        "Author":"Fyodor Dostoyevski",
+        "Price":"₺35"
+    }
+]
